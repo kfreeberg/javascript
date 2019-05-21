@@ -1,4 +1,6 @@
-# Using the UFO dataset provided in the form of an array of JavaScript objects, the code appends a table to the web page 
+##UFO Sightings
+
+Using the UFO dataset provided, the code appends a table to the web page 
 
 
 Multiple Search Categories
