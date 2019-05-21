@@ -1,4 +1,4 @@
-##UFO Sightings
+## UFO Sightings
 
 Using the UFO dataset provided, the code appends a table to the web page 
 
